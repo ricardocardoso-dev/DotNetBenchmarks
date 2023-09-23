@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = FindFirstOrDefaultBenckmark
+build_property.ProjectDir = C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ExistsAnyBenchmark
+build_property.ProjectDir = C:\MyProjects\benchmarks\ExistsAnyBenchMark\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

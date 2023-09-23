@@ -1,0 +1,14 @@
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\bin\Debug\net8.0\FindFirstOrDefaultBenckmark.exe
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\bin\Debug\net8.0\FindFirstOrDefaultBenckmark.deps.json
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\bin\Debug\net8.0\FindFirstOrDefaultBenckmark.runtimeconfig.json
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\bin\Debug\net8.0\FindFirstOrDefaultBenckmark.dll
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\bin\Debug\net8.0\FindFirstOrDefaultBenckmark.pdb
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.AssemblyInfoInputs.cache
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.AssemblyInfo.cs
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.csproj.CoreCompileInputs.cache
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.dll
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\refint\FindFirstOrDefaultBenckmark.dll
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.pdb
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\FindFirstOrDefaultBenckmark.genruntimeconfig.cache
+C:\MyProjects\benchmarks\FindFirstOrDefaultBenckmark\obj\Debug\net8.0\ref\FindFirstOrDefaultBenckmark.dll
