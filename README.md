@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/network)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/commits/main)
+![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/DotNetBenchmarks?category=code)
+![Lines of code](https://tokei.rs/b1/github/ricardocardoso-dev/DotNetBenchmarks?category=files)
 
 ## Introduction
 Welcome to our benchmarking project in .NET with C#! Whether you're optimizing existing code or developing new applications, understanding performance is crucial. With our suite of benchmarking projects, you can analyze execution times, memory usage, and more, making informed decisions to enhance your software's efficiency and reliability. Explore our benchmarks and optimize your .NET C# code effectively.
