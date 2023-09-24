@@ -1,10 +1,10 @@
 # Dot Net Benchmarks
 
-[![GitHub license](https://img.shields.io/github/license/ricardocardoso-dev/ski-shop-e-commerce?color=brightgreen)](https://github.com/ricardocardoso-dev/ski-shop-e-commerce/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/ricardocardoso-dev/ski-shop-e-commerce?color=brightgreen)](https://github.com/ricardocardoso-dev/ski-shop-e-commerce/issues)
-[![GitHub stars](https://img.shields.io/github/stars/ricardocardoso-dev/ski-shop-e-commerce?color=brightgreen)](https://github.com/ricardocardoso-dev/ski-shop-e-commerce/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ricardocardoso-dev/ski-shop-e-commerce?color=brightgreen)](https://github.com/ricardocardoso-dev/ski-shop-e-commerce/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ricardocardoso-dev/ski-shop-e-commerce?color=brightgreen)](https://github.com/ricardocardoso-dev/ski-shop-e-commerce/commits/main)
+[![GitHub license](https://img.shields.io/github/license/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/network)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ricardocardoso-dev/DotNetBenchmarks?color=brightgreen)](https://github.com/ricardocardoso-dev/DotNetBenchmarks/commits/main)
 
 ## Introduction
 Welcome to our benchmarking project in .NET with C#! Whether you're optimizing existing code or developing new applications, understanding performance is crucial. With our suite of benchmarking projects, you can analyze execution times, memory usage, and more, making informed decisions to enhance your software's efficiency and reliability. Explore our benchmarks and optimize your .NET C# code effectively.
